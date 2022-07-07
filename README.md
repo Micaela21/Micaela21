@@ -5,7 +5,7 @@
 
 * 🔭 I’m currently working on **personal projects**
 
-* 🌱 I’m currently learning **Graphql, Apollo, Typescript, Mongo**
+* 🌱 I’m currently learning **Docker, Kubernetes, AWS**
 
 * 👯 I’m looking to collaborate on **mobile projects**
 
